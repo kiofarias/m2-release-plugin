@@ -35,8 +35,8 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:</developerConnection>
-        <url></url>
+        <developerConnection>scm:git:https://github.com/kiofarias/m2-release-plugin.git</developerConnection>
+        <url>https://github.com/kiofarias/m2-release-plugin</url>
         <tag>HEAD</tag>
     </scm>
 

@@ -4,7 +4,11 @@
 
     <groupId>kiofarias.springframework</groupId>
     <artifactId>m2-release-plugin</artifactId>
-    <version>1.20-SNAPSHOT</version>
+<<<<<<< HEAD
+    <version>1.1-SNAPSHOT</version>
+=======
+    <version>1.1-SNAPSHOT</version>
+>>>>>>> 9ff4f876c49429b2fbde086be93e105382d30917
 
 
     <properties>

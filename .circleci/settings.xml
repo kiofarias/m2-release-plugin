@@ -11,5 +11,10 @@
         <id>packagecloud.release</id>
         <password>${env.PCLOUD}</password>
     </server>
+    <server>
+        <id>github</id>
+        <username>kiofarias@gmail.com</username>
+        <password>${env.GET_PWD}</password>
+    </server>
 </servers>
 </settings>

@@ -4,7 +4,7 @@
 
     <groupId>kiofarias.springframework</groupId>
     <artifactId>m2-release-plugin</artifactId>
-    <version>1.9-SNAPSHOT</version>
+    <version>1.9</version>
 
 
 
@@ -36,7 +36,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/kiofarias/m2-release-plugin.git</developerConnection>
         <url>https://github.com/kiofarias/m2-release-plugin</url>
-        <tag>m2-release-plugin-1.0</tag>
+        <tag>m2-release-plugin-1.9</tag>
     </scm>
 
 
